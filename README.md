@@ -21,3 +21,6 @@ The exploratory analysis is structured into 4 key angles:
 * **Business Intelligence:** Power BI (DAX measures) & Excel
 
 Project link: graduation project.pbix
+
+# Here dashboards :
+![Dahboard 1](Graduation-Project/images/dashbord 1.png)
