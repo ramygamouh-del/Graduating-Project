@@ -23,4 +23,4 @@ The exploratory analysis is structured into 4 key angles:
 Project link: graduation project.pbix
 
 # Here dashboards :
-![Aperçu du Dashboard Power BI](images/dashbord1.png)
+<img src="images/dashboard1.png" alt="Aperçu du Dashboard 1" width="100%">
