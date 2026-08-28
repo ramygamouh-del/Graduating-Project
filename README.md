@@ -19,3 +19,5 @@ The exploratory analysis is structured into 4 key angles:
 * **Programming & Modeling:** Python (`pandas`, `numpy`, `scikit-learn`, `category_encoders`)
 * **Machine Learning:** Supervised classification models (Logistic Regression, Random Forest, Gradient Boosting, Support Vector Machines)
 * **Business Intelligence:** Power BI (DAX measures) & Excel
+
+Project link: graduation project.pbix
